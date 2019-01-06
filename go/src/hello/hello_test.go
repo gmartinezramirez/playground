@@ -2,7 +2,7 @@ package main
 
 import "testing"
 
-func TestShouldReturnHelloGoMessage(t* testing.T) {
+func TestShouldReturnHelloGoMessage(t *testing.T) {
 	got := Hello()
 	want := "Hello Go"
 
