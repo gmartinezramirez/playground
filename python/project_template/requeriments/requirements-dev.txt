@@ -1,4 +1,20 @@
+#dev/code utils
+# Linter: pylint
+# https://pypi.org/project/pylint/
 pylint===2.7.4
+# Code formatter: black
+# https://pypi.org/project/black/
 black===20.8b1
+# Imports formatter: isort
+# https://pypi.org/project/isort/
+isort===5.8.0
+# Static type checker: mypy
+# https://pypi.org/project/mypy/
 mypy===0.812
-mutpy===0.6.1
+# Security linter: 
+bandit===1.7.0
+
+#dev/tracking and reporting complexity
+# Wily
+# https://pypi.org/project/wily/
+wily===1.19.0

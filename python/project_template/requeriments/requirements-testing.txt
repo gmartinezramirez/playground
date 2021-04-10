@@ -1,0 +1,23 @@
+#dev/testing
+# Unit, integration: pytest
+# https://pypi.org/project/pytest/
+pytest===6.2.3
+# BDD testing using Gherkin DSL: pytest-bdd
+# https://pypi.org/project/pytest-bdd/
+pytest-bdd===4.0.2
+# Http for humans, used for integration, e2e testing: request
+# https://docs.python-requests.org/en/master/
+requests===2.25.1
+# Mutation testing: MutPy
+# https://pypi.org/project/MutPy/
+mutpy===0.6.1
+# Container testing: testcontainers 
+# https://pypi.org/project/testcontainers/
+#testcontainers===3.4.0
+# Property testing: hypothesis
+hypothesis===6.8.9
+#  Optional extensions
+#hypothesis[pandas,django] 
+# API testing
+# https://pypi.org/project/schemathesis/
+schemathesis===3.6.1
