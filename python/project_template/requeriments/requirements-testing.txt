@@ -7,7 +7,7 @@ pytest===6.2.3
 pytest-bdd===4.0.2
 # Http for humans, used for integration, e2e testing: request
 # https://docs.python-requests.org/en/master/
-requests===2.25.1
+requests===2.31.0
 # Mutation testing: MutPy
 # https://pypi.org/project/MutPy/
 mutpy===0.6.1
